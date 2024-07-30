@@ -1,4 +1,4 @@
-# 👋 Hi, I’m <a href="https://www.linkedin.com/in/piyush-puri-406471245/" target="blank">Piyush Puri</a>
+# 👋 Hi, I’m <a href="https://www.linkedin.com/in/mrkaushal790/" target="blank">Kaushal Rathore</a>
 
 - 👀 I’m interested in crunching data, creating insightful interactive dashboards, building models
 - 🌱 I’m currently doing a data analytics projects online 
